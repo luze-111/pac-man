@@ -117,4 +117,5 @@ Everyone confirms their own row. Publishing does not make one person the sole au
 
 **How to update this table:** each member edits only their own row, in their own branch and
 pull request, replacing the placeholder with their registered name and a one-line summary of
-the work they actually did. Do not edit another member's row.
+the work they actually did. If you are not listed yet, add one row at the end of the table
+instead. Do not edit another member's row.
