@@ -114,6 +114,7 @@ Everyone confirms their own row. Publishing does not make one person the sole au
 | — | [@MaybeItsAI](https://github.com/MaybeItsAI) | Documentation — to confirm in own PR |
 | 冯宏远 (Feng Hongyuan) | [@Fhy11401](https://github.com/Fhy11401) | Documentation: Credits section — asset, music and voice licences |
 | — | [@Mikuuuuuchan](https://github.com/Mikuuuuuchan) | Prototyping, map design, and playtesting |
+| 黄皓明 (Huang Haoming) | [@Whh-hclz](https://github.com/Whh-hclz) | Character materials, game mechanics, contributor-table note |
 
 **How to update this table:** each member edits only their own row, in their own branch and
 pull request, replacing the placeholder with their registered name and a one-line summary of
